@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.6.1)
+  - XCDYouTubeKit (2.15.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - XCDYouTubeKit (from `https://github.com/armendh/XCDYouTubeKit`, commit `651a6a51c695c5819eb51ba2f98d0b64094315b9`, branch `master`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  XCDYouTubeKit:
+    :branch: master
+    :commit: 651a6a51c695c5819eb51ba2f98d0b64094315b9
+    :git: https://github.com/armendh/XCDYouTubeKit
+
+CHECKOUT OPTIONS:
+  XCDYouTubeKit:
+    :commit: 651a6a51c695c5819eb51ba2f98d0b64094315b9
+    :git: https://github.com/armendh/XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  XCDYouTubeKit: b120aced3d8638ffb570c5450cddb5a1dac448c7
+
+PODFILE CHECKSUM: c657209681c132f37a54266f387ab0174c591332
+
+COCOAPODS: 1.11.3
